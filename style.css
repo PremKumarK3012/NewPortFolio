@@ -27,14 +27,14 @@ h1{
 .dark  .h1-bor{
   border-color:rgb(16, 185, 129) ;
 }
-/* @media screen and (min-width:768px) {
+@media screen and (min-width:768px) {
   
   #home{
     height: 100vh;
     overflow: hidden;
-
+    
   }
-} */
+}
 
 
 
